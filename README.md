@@ -10,9 +10,7 @@ The main features are that it:
 * I can also use my regular web-browser via port-forwarding ( http://localhost:4567/ ).
 * finally as part of the install process it will clone git clone https://github.com/angular/angular-phonecat.git and branch to step-0 (git checkout -f step-0 )
 
-I have setup a vagrant-nodejs-angularjs github repository (https://github.com/dgapitts/vagrant-nodejs-angularjs-tutorial.git)
-
-So all you need to do (assuming you have vagrant and virtualbox already installed) is 
+All you need to do (assuming you have vagrant and virtualbox already installed) is 
 
     git clone https://github.com/dgapitts/vagrant-nodejs-angularjs-tutorial.git
     cd vagrant-nodejs-angularjs
@@ -20,3 +18,4 @@ So all you need to do (assuming you have vagrant and virtualbox already installe
   
 It takes about 2 mins to build the new nodejs virtualbox server 
 
+For more details see: http://wiki.ebabel.eu/index.php/Vagrant-nodejs-angularjs-tutorial
