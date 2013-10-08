@@ -1,0 +1,11 @@
+alias vi='/usr/bin/vim'
+alias h='history'
+alias h2='history'
+alias h40='history|tail -40'
+alias hl='history|less'
+alias l40='ls -ltr|tail -40'
+alias lt='ls -ltr|tail -10'
+alias ht='history|tail -10'
+alias saru30='sar -u | head -3 ; sar -u |tail -30'
+alias sarq30='sar -q | head -3 ; sar -q |tail -30'
+
